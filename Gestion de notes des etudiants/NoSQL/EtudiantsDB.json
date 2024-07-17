@@ -1,0 +1,61 @@
+{
+    "etudiants": [
+        {
+            "id_etudiant": 1,
+            "nom_etudiant": "Sefdine",
+            "prenom_etudiant": "Ahmed",
+            "date_de_naissance": "2000-01-01",
+            "adresse": "123 rue Ibn, Moroni, Comores",
+            "email": "sefdine@example.com"
+        }
+    ],
+    "cours": [
+        {
+            "id_cours": 1,
+            "nom_cours": "BD NoSQL",
+            "description": "Conception des base de donnees NoSQL",
+            "credits": 3
+        }
+    ],
+    "enseignants": [
+        {
+            "id_enseignant": 1,
+            "nom_enseignant": "Junior Medjeu",
+            "prenom_enseignant": "Fopa",
+            "email": "junior@example.com"
+        }
+    ],
+    "niveaux": [
+        {
+            "id_niveau": 1,
+            "nom_niveau": "Master 2"
+        }
+    ],
+    "notes": [
+        {
+            "id_note": 1,
+            "id_etudiant": 1,
+            "id_cours": 1,
+            "date_note": "2024-07-07",
+            "valeur": 15.75
+        }
+    ],
+    "enseignements": [
+        {
+            "id_enseigner": 1,
+            "date_enseigner": "2024-06-01",
+            "heure_enseigner": "10:00:00",
+            "id_enseignant": 1,
+            "id_cours": 1
+        }
+    ],
+    "inscriptions": [
+        {
+            "id_inscrit": 1,
+            "date_inscrit": "2024-05-10",
+            "statut_inscrit": "Actif",
+            "id_etudiant": 1,
+            "id_niveau": 1
+        }
+    ]
+}
