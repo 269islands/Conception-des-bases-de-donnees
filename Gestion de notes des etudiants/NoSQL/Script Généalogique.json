@@ -1,0 +1,38 @@
+{
+    "etudiants": {
+	
+            "id_etudiant": "integer",  
+            "nom_etudiant": "string",  
+            "prenom_etudiant": "string",  
+            "date_de_naissance": "date",  
+            "adresse": "string",  
+            "email": "string", 
+       "niveaux": {
+            "id_niveau": "integer",  
+            "nom_niveau": "string"  
+    },
+      
+      "notes": { "id_note": "integer",  
+            "date_note": "date", 
+            "valeur": "float"}          
+    },
+	
+    "cours": {
+            "id_cours": "integer",  
+            "nom_cours": "string",  
+            "description": "string",  
+            "credits": "integer"  
+        
+    },
+	
+	
+    "enseignants": {
+    
+         
+            "id_enseignant": "integer",
+            "nom_enseignant": "string",  
+            "prenom_enseignant": "string",  
+            "email": "string"  
+        
+    }
+}
