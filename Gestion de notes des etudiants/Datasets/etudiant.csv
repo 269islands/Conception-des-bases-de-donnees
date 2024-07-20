@@ -1,0 +1,41 @@
+﻿id_etudiant, nom_etudiant, prenom_etudiant, date_de_naissance, adresse, email
+51, Martinez, Louis, 2002/03/18, 12 Rue des Acacias, louis.martinez@example.com
+52, Leroux, Sarah, 2001/06/21, 27 Avenue de la Liberté, sarah.leroux@example.com
+53, Thomas, Paul, 2003/09/12, 10 Rue de la Paix, paul.thomas@example.com
+54, Giraud, Léa, 2000/12/05, 15 Rue du Commerce, lea.giraud@example.com
+55, Roux, Maxime, 2004/04/10, 8 Avenue des Roses, maxime.roux@example.com
+56, Bertrand, Emma, 2000/07/15, 19 Boulevard Victor Hugo, emma.bertrand@example.com
+57, Fournier, Lucie, 2001/10/30, 4 Rue du Moulin, lucie.fournier@example.com
+58, Garcia, Théo, 2003/01/15, 7 Avenue du Stade, theo.garcia@example.com
+59, Lemoine, Camille, 2002/05/28, 22 Rue des Violettes, camille.lemoine@example.com
+60, Dupont, Hugo, 2000/08/08, 11 Boulevard des Écoles, hugo.dupont@example.com
+61, Dubois, Alice, 2001/02/14, 123 Rue des Fleurs, alice.dubois@example.com
+62, Morel, Victor, 2002/04/22, 456 Avenue de la République, victor.morel@example.com
+63, Lefevre, Claire, 2000/06/15, 789 Boulevard Saint-Germain, claire.lefevre@example.com
+64, Garcia, Mathieu, 2003/08/29, 101 Rue de la Liberté, mathieu.garcia@example.com
+65, Martinez, Sophie, 2001/11/11, 202 Avenue des Champs-Élysées, sophie.martinez@example.com
+66, Bernard, Lucas, 2000/03/05, 303 Rue de Rivoli, lucas.bernard@example.com
+67, Thomas, Julie, 2002/05/19, 404 Avenue Victor Hugo, julie.thomas@example.com
+68, Petit, Louis, 2003/07/23, 505 Rue Lafayette, louis.petit@example.com
+69, Robert, Emma, 2000/09/01, 606 Boulevard Haussmann, emma.robert@example.com
+70, Richard, Nicolas, 2001/12/18, 707 Rue de la Paix, nicolas.richard@example.com
+71, Dupont, Jean, 12/05/2001, 789 Avenue Jean Jaurès, jean.dupont@example.com
+72, Martin, Lucie, 19/07/2002, 321 Boulevard Voltaire, lucie.martin@example.com
+73, Lemoine, Paul, 21/09/2000, 654 Rue de la Paix, paul.lemoine@example.com
+74, Leclerc, Marie, 13/01/2003, 123 Rue des Acacias, marie.leclerc@example.com
+75, Simon, Louis, 27/11/2001, 456 Avenue de la Liberté, louis.simon@example.com
+76, Rousseau, Claire, 30/03/2002, 789 Boulevard Saint-Michel, claire.rousseau@example.com
+77, Fabre, Julie, 25/06/2000, 987 Rue de la République, julie.fabre@example.com
+78, Fontaine, Henri, 15/08/2003, 432 Avenue de la Gare, henri.fontaine@example.com
+79, Perrier, Emilie, 04/02/2001, 654 Rue Lafayette, emilie.perrier@example.com
+80, Duval, Antoine, 19/12/2002, 123 Boulevard des Italiens, antoine.duval@example.com
+81, Dupont, Jean, 12/05/2001, 789 Avenue Jean Jaurès, jean.dupont@example.com
+82, Martin, Lucie, 19/07/2002, 321 Boulevard Voltaire, lucie.martin@example.com
+83, Lemoine, Paul, 21/09/2000, 654 Rue de la Paix, paul.lemoine@example.com
+84, Leclerc, Marie, 13/01/2003, 123 Rue des Acacias, marie.leclerc@example.com
+85, Simon, Louis, 27/11/2001, 456 Avenue de la Liberté, louis.simon@example.com
+86, Rousseau, Claire, 30/03/2002, 789 Boulevard Saint-Michel, claire.rousseau@example.com
+87, Fabre, Julie, 25/06/2000, 987 Rue de la République, julie.fabre@example.com
+88, Fontaine, Henri, 15/08/2003, 432 Avenue de la Gare, henri.fontaine@example.com
+89, Perrier, Emilie, 04/02/2001, 654 Rue Lafayette, emilie.perrier@example.com
+90, Duval, Antoine, 19/12/2002, 123 Boulevard des Italiens, antoine.duval@example.com
